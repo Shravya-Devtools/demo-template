@@ -1,4 +1,4 @@
-Why Aurora PostgreSQL is Chosen
+Why Aurora PostgreSQL is Chosen ***
 Managed Service: Aurora is a fully managed database service, which means AWS handles routine database tasks such as patching, backups, and failover. This reduces administrative overhead and allows developers to focus on their applications.
 
 Compatibility: Aurora PostgreSQL is compatible with PostgreSQL, which means that many applications and tools designed for PostgreSQL will work seamlessly with Aurora. This makes it easier for organizations to migrate to or integrate with Aurora without significant changes to their existing codebase.
